@@ -1,0 +1,27 @@
+{
+    "name": "01.08.2026",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "v3": "*",
+        "MotionKit": "github:tinysuperlab/motionkit#30d5357f41a72d0db3d343399c844236354e5edb",
+        "MotionKit V2": "github:tinysuperlab/motionkitv2#v0.1.2",
+        "warte bis...": "github:calliope-edu/warte-bis#f771255087368c53690ea55c66da295e41c4d0c3"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.1.13",
+        "targetId": "calliopemini"
+    },
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "blocksprj"
+}
